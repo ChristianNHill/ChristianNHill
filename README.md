@@ -17,7 +17,7 @@
 
 - 📫 Contact me at **chrishillcs@gmail.com**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianNHill&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![snake gif](https://github.com/ChristianNHill/ChristianNHill/blob/output/github-contribution-grid-snake.gif)
 
 
 <!-- Top Rainbow GIF -->
