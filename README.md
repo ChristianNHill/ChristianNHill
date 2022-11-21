@@ -1,5 +1,5 @@
 <!-- Name Card -->
-<img src="https://github.com/ChristianNHill/ChristianNHill/blob/main/github-header-image.png" width="100%">(https://chrisnhill.com/portfolio/)
+[<img src="https://github.com/ChristianNHill/ChristianNHill/blob/main/github-header-image.png" width="100%">](https://chrisnhill.com/)
 <!--
 
 <!-- Chris' Description -->
