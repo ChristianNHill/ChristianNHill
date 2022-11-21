@@ -6,6 +6,7 @@
 <!--
 
 <!-- Chris' Description -->
+-  🧰 View my portfolio on my [website](https://chrisnhill.com/portfolio/)
 
 - 🎓 Bachelor degree in Computer Science from University of Colorado, Boulder (2016 - 2020)
 
