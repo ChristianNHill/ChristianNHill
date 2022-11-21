@@ -1,6 +1,3 @@
-<!-- Top Rainbow GIF -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<!--
 <!-- Name Card -->
 <img src="https://github.com/ChristianNHill/ChristianNHill/blob/main/github-header-image.png" width="100%">
 <!--
@@ -20,3 +17,6 @@
 
 - 📫 Contact me at **chrishillcs@gmail.com**
 
+<!-- Top Rainbow GIF -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!--
