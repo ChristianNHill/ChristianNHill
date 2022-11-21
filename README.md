@@ -11,7 +11,7 @@
 
 - 🎓 Masters degree in Creative Technology & Design from University of Colorado, Boulder (2020 - 2022)
 
-- 🌱 View my opensource documentation on my [GitHub](https://github.com/ChristianNHill?tab=repositories) or on my [Instructables](https://www.instructables.com/member/4Eyes6Senses/instructables/)
+- ✏️ View my open source documentation on my [GitHub](https://github.com/ChristianNHill?tab=repositories) or on my [Instructables](https://www.instructables.com/member/4Eyes6Senses/instructables/)
 
 - 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
 
