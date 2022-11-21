@@ -13,9 +13,11 @@
 
 - ✏️ View my open source documentation on my [GitHub](https://github.com/ChristianNHill?tab=repositories) or on my [Instructables](https://www.instructables.com/member/4Eyes6Senses/instructables/)
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+-  📖 View my research publications on my [Google Scholar page](https://scholar.google.com/citations?user=me1GS18AAAAJ&hl=en&oi=sra)
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 🐦 Keep up with my work on [Twitter](https://twitter.com/4Eyes6Senses)
+
+- 📫 Contact me at **chrishillcs@gmail.com
 - 
 **ChristianNHill/ChristianNHill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
