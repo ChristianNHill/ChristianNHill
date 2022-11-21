@@ -17,6 +17,10 @@
 
 - 📫 Contact me at **chrishillcs@gmail.com**
 
+- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianNHill&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
 <!-- Top Rainbow GIF -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!--
+
