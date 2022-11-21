@@ -17,7 +17,7 @@
 
 - 📫 Contact me at **chrishillcs@gmail.com**
 
-![snake gif](https://github.com/ChristianNHill/ChristianNHill/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ChristianNHill/ChristianNHill/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- Top Rainbow GIF -->
