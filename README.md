@@ -5,9 +5,9 @@
 <!-- Chris' Description -->
 -  🧰 View my portfolio on my [website](https://chrisnhill.com/portfolio/)
 
-- 🎓 Bachelor degree in Computer Science from University of Colorado, Boulder (2016 - 2020)
+- 🎓 Bachelor degree in Computer Science from The University of Colorado, Boulder (2016 - 2020)
 
-- 🎓 Masters degree in Creative Technology & Design from University of Colorado, Boulder (2020 - 2022)
+- 🎓 Masters degree in Creative Technology & Design from The University of Colorado, Boulder (2020 - 2022)
 
 - ✏️ View my open source documentation on my [GitHub](https://github.com/ChristianNHill?tab=repositories) or on my [Instructables](https://www.instructables.com/member/4Eyes6Senses/instructables/)
 
