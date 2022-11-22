@@ -1,6 +1,6 @@
-<!-- Name Card -->
-![github-header-image (1)](https://user-images.githubusercontent.com/22805894/203079523-4d393a49-ed66-4295-b713-be18e21222c6.png)
-<!--
+<img src="https://user-images.githubusercontent.com/22805894/203225437-5bf52876-f142-4770-870c-4fbcf3aadcb7.svg" width="100%">
+
+## Hi! I'm Chris Hill, a creative technologist, technical writer, and researcher.
 
 <!-- Chris' Description -->
 -  🧰 View my portfolio on my [website](https://chrisnhill.com/portfolio/)
@@ -18,7 +18,6 @@
 - 📫 Contact me at **chrishillcs@gmail.com**
 
 ![snake gif](https://github.com/ChristianNHill/ChristianNHill/blob/output/github-contribution-grid-snake.svg)
-
 
 <!-- Top Rainbow GIF -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
