@@ -1,4 +1,7 @@
-![Chris Hill Logo](https://user-images.githubusercontent.com/22805894/203225437-5bf52876-f142-4770-870c-4fbcf3aadcb7.svg)
+<!-- Logo -->
+<img src="https://user-images.githubusercontent.com/22805894/203651493-266f7767-5abe-4c7a-a28a-1c2854e791cd.png" width="100%">
+<!--
+
 
 ## Hi! I'm Chris Hill, a creative technologist, technical writer, and researcher.
 
@@ -17,8 +20,10 @@
 
 - 📫 Contact me at **chrishillcs@gmail.com**
 
+<!-- Snake GIF -->
 ![snake gif](https://github.com/ChristianNHill/ChristianNHill/blob/output/github-contribution-grid-snake.svg)
+<!--
 
-<!-- Top Rainbow GIF -->
+<!-- Bottom Rainbow GIF -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!--
