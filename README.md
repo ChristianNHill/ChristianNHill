@@ -1,6 +1,5 @@
-<a href="https://chrisnhill.com/" target="_blank" rel="nofollow">
-    <img src="https://user-images.githubusercontent.com/22805894/203225437-5bf52876-f142-4770-870c-4fbcf3aadcb7.svg" alt="Hill Logo" width="1000px" height="1000px" />
-</a>
+![Chris Hill Logo](https://user-images.githubusercontent.com/22805894/203225437-5bf52876-f142-4770-870c-4fbcf3aadcb7.svg)
+
 ## Hi! I'm Chris Hill, a creative technologist, technical writer, and researcher.
 
 <!-- Chris' Description -->
