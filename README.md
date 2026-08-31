@@ -1,6 +1,4 @@
-<!-- Logo -->
-<img src="https://user-images.githubusercontent.com/22805894/203651493-266f7767-5abe-4c7a-a28a-1c2854e791cd.png" width="100%">
-<!--
+
 
 
 ## Hi! I'm Chris Hill, a creative technologist, technical writer, and researcher.
